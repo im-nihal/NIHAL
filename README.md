@@ -1,6 +1,9 @@
+<div id='emoji.img' align='center'>
+<img width="60" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fixedsys&duration=4000&pause=700&color=20F700&center=true&width=435&lines=Hello%2C+Fellow+%3Ccoder%2F%3E!;+I'm+Nihal%2C+Welcome+To+My+Profile.;Thank+You+For+Visiting!" alt="Typing SVG" /></a>
-</h1>
+</h1> </div>
 
 <h3 align="center">Follow me On My Socials</h3>
 
@@ -46,8 +49,6 @@ Hi, I'm Nihal Patel, a python🐍 programmer‍💻 From India. Currently, I am 
     <img title="HTML5" height="30" src="images/html.svg">
 </div>
 
-
-
 ## 💻 Some of My Projects
 <br/>
 <div>
@@ -67,6 +68,10 @@ Hi, I'm Nihal Patel, a python🐍 programmer‍💻 From India. Currently, I am 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-nihal-patel&repo=Qr_Code-Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </div>
+
+## 📝 Latest blog posts from Medium
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
 <a href="https://github.com/its-nihal-patel/its-nihal-patel">
