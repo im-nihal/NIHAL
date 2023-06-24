@@ -30,19 +30,22 @@ Hi, I'm Nihal Patel, a python🐍 programmer‍💻 From India. Currently, I am 
 
 
 ## 🔧 Tools & Technologies
-<img title="Python" height="30" src="images/python.svg">
-<img title="Linux" height="30" src="images/linux.svg">
-<img title="Flask" height="30" src="images/flask.svg">
-<img title="Git" height="30" src="images/git-original.svg">
-<img title="Visual Studio Code" height="30" src="images/vscode.svg">
-<img title="GitHub" height="30" src="images/github.svg">
-<img title="NumPy" height="30" src="images/numpy.svg">
-<img title="Jupyter Notebook" height="30" src="images/Pandas.svg">
-<img title="Matplotlib" height="30" src="images/jupyter.svg">
-<img title="Pandas" height="30" src="images/matplotlib.svg">
-<img title="Problem Solving" height="30" src="images/problemSolving.png">
-<img title="C" height="30" src="images/c.svg">
-<img title="HTML5" height="30" src="images/html.svg">
+<div style="display: flex; flex-wrap: wrap;">
+    <img title="Python" height="30" src="images/python.svg">
+    <img title="Linux" height="30" src="images/linux.svg">
+    <img title="Flask" height="30" src="images/flask.svg">
+    <img title="Git" height="30" src="images/git-original.svg">
+    <img title="Visual Studio Code" height="30" src="images/vscode.svg">
+    <img title="GitHub" height="30" src="images/github.svg">
+    <img title="NumPy" height="30" src="images/numpy.svg">
+    <img title="Jupyter Notebook" height="30" src="images/Pandas.svg">
+    <img title="Matplotlib" height="30" src="images/jupyter.svg">
+    <img title="Pandas" height="30" src="images/matplotlib.svg">
+    <img title="Problem Solving" height="30" src="images/problemSolving.png">
+    <img title="C" height="30" src="images/c.svg">
+    <img title="HTML5" height="30" src="images/html.svg">
+</div>
+
 
 
 ## 💻 Some of My Projects
