@@ -71,11 +71,11 @@ Hi, I'm Nihal Patel, a python🐍 programmer‍💻 From India. Currently, I am 
 
 ## 📝 Latest blog posts from Medium
 <!-- BLOG-POST-LIST:START -->
+- [Python OS Module : Simplifying OS Interactions with Python ️](https://techytales.medium.com/python-os-module-simplifying-os-interactions-with-python-%EF%B8%8F-dbb182bc5bf8?source=rss-2573d876836f------2)
 - [Typewriter Animation Using Python](https://techytales.medium.com/typewriter-animation-using-python-7f4275e812bf?source=rss-2573d876836f------2)
 - [Pickling and un-pickling in Python: A Comprehensive Tutorial](https://techytales.medium.com/pickling-and-un-pickling-in-python-a-comprehensive-tutorial-2047ad7273a0?source=rss-2573d876836f------2)
 - [Python’s Alternative for Switch Statement: A Beginner’s Guide for match case statement](https://techytales.medium.com/pythons-switch-statement-a-beginner-s-guide-4aaffef29cb5?source=rss-2573d876836f------2)
 - [Strong and Secure Passwords with Python.](https://techytales.medium.com/strong-and-secure-passwords-with-python-bfcbbfd8cc8c?source=rss-2573d876836f------2)
-- [Meta-programming in Python: Decorators, Meta classes, &amp; Code Generation](https://techytales.medium.com/meta-programming-in-python-decorators-meta-classes-code-generation-52e486a8f70b?source=rss-2573d876836f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
