@@ -71,11 +71,11 @@ Hi, I'm Nihal Patel, a python🐍 programmer‍💻 From India. Currently, I am 
 
 ## 📝 Latest blog posts from Medium
 <!-- BLOG-POST-LIST:START -->
+- [Arrays in Disguise: The Truth About Python Lists](https://python.plainenglish.io/arrays-in-disguise-the-truth-about-python-lists-49b509b92691?source=rss-2573d876836f------2)
 - [Get the Most Out of NumPy with These Advanced Tricks](https://python.plainenglish.io/get-the-most-out-of-numpy-with-these-advanced-tricks-17a1979e7c9?source=rss-2573d876836f------2)
 - [Hacker’s Preference: Python!](https://techytales.medium.com/hackers-preference-python-5ec9634c17a4?source=rss-2573d876836f------2)
 - [Python OS Module: Simplifying OS Interactions with Python](https://python.plainenglish.io/python-os-module-simplifying-os-interactions-with-python-%EF%B8%8F-dbb182bc5bf8?source=rss-2573d876836f------2)
 - [Typewriter Animation Using Python](https://python.plainenglish.io/typewriter-animation-using-python-7f4275e812bf?source=rss-2573d876836f------2)
-- [Pickling and Un-pickling in Python: A Comprehensive Tutorial](https://python.plainenglish.io/pickling-and-un-pickling-in-python-a-comprehensive-tutorial-2047ad7273a0?source=rss-2573d876836f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
